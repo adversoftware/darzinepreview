@@ -709,7 +709,7 @@ body {
 
 /* Define scrollbar colors */
 body {
-   
+   overflow-x: hidden;
 }
 
 /* Webkit-based browsers */
